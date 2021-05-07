@@ -1,4 +1,4 @@
-Analyzing images with codes can be difficult. Therefore, it's necessary for you to make your code understand the context of an image. In doing so, the first step will be identifying the dominant colors.
+Project: Analyzing images with codes can be difficult. Therefore, it's necessary for you to make your code understand the context of an image. In doing so, the first step will be identifying the dominant colors.
 ----
 
 [Hint: Refer the following url for image processing documentation: http://omz-software.com/pythonista/docs/ios/PIL.html]
