@@ -5,10 +5,10 @@ DESCRIPTION
 
 #### BookRent is the largest online and offline book rental chain in India. The company charges a fixed rental fee for a book per month. Lately, the company has been losing its user base.
 #### The main reason for this is that users are not able to choose the right books for themselves. The company wants to solve this problem and increase its revenue and profit.
--
+---
 
 #### Objective: You, as an ML expert, have to model a recommendation engine so that users get recommendations for books based on the behavior of similar users. This will ensure that users are renting books based on their individual tastes.
--
+
 Actions to Perform:
 
 - Read the books dataset and explore it.
