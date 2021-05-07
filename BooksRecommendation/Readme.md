@@ -11,14 +11,14 @@ Objective: You, as an ML expert, have to model a recommendation engine so that u
 -
 Actions to Perform:
 
-Read the books dataset and explore it.
-Clean up NaN values.
-Read the data where ratings are given by users.
-Take a quick look at the number of unique users and books.
-Convert ISBN to numeric numbers in the correct order.
-Do the same for user_id. Convert it into numeric order.
-Convert both user_id and ISBN to the ordered list i.e. from 0...n-1.
-Re-index columns to build matrix later on.
-Split your data into two sets (training and testing).
-Calculate the cosine similarity.
-Use the evaluation metrics to make predictions.
+- Read the books dataset and explore it.
+- Clean up NaN values.
+- Read the data where ratings are given by users.
+- Take a quick look at the number of unique users and books.
+- Convert ISBN to numeric numbers in the correct order.
+- Do the same for user_id. Convert it into numeric order.
+- Convert both user_id and ISBN to the ordered list i.e. from 0...n-1.
+- Re-index columns to build matrix later on.
+- Split your data into two sets (training and testing).
+- Calculate the cosine similarity.
+- Use the evaluation metrics to make predictions.
